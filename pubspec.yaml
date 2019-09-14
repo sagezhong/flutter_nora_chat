@@ -11,7 +11,7 @@ description: A new Flutter application for IM
 # In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
 # Read more about iOS versioning at
 # https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
-version: 1.0.0+1
+version: 1.1.0+1
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
@@ -19,10 +19,36 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+    
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.2
+
+  jmessage_flutter: ^0.0.17 #极光IM插件
+  jpush_flutter: ^0.0.11
+  shared_preferences: ^0.5.2
+  flutter_spinkit: ^3.1.0  #等待插件
+  oktoast: ^2.1.7
+  flutter_easyrefresh: ^1.2.7
+  flutter_sound: ^1.4.1
+  flare_flutter: ^1.2.0
+  keyboard_visibility: ^0.5.6
+  vibration: ^1.0.2
+  extended_image: ^0.3.8
+  event_bus: ^1.1.0
+  crypto: ^2.0.6
+  dio: ^2.1.5
+  image_picker: ^0.6.0+8
+  synchronized: ^2.1.0
+  package_info: ^0.4.0+4
+  image_cropper: ^1.0.2
+  flukit:
+    git:
+      url: git://github.com/flutterchina/flukit.git
+      path: package_src/
+
+
 
 dev_dependencies:
   flutter_test:
@@ -39,6 +65,12 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/images/
+    - assets/images/face/
+    - assets/images/figure/
 
   # To add assets to your application, add an assets section, like this:
   # assets:
