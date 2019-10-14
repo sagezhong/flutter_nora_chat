@@ -8,8 +8,22 @@
 
 ## 应用截图
 
-![](https://sagezhong.oss-cn-shenzhen.aliyuncs.com/images/20191014161553.jpeg)
+| 登录页面                                                     | 好友设置                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![](https://sagezhong.oss-cn-shenzhen.aliyuncs.com/images/20191014161553.jpeg) | ![](https://sagezhong.oss-cn-shenzhen.aliyuncs.com/images/20191014161652.jpeg) |
 
-![](https://sagezhong.oss-cn-shenzhen.aliyuncs.com/images/20191014161631.jpeg)
+| 应用设置                                                     | 主页面                                                       |
+| :----------------------------------------------------------- | ------------------------------------------------------------ |
+| ![](https://sagezhong.oss-cn-shenzhen.aliyuncs.com/images/20191014161631.jpeg) | ![](https://sagezhong.oss-cn-shenzhen.aliyuncs.com/images/20191014162832.jpeg) |
 
-![](https://sagezhong.oss-cn-shenzhen.aliyuncs.com/images/20191014161652.jpeg)
+
+
+| 聊天页面                                                     | 侧边栏                                                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![](https://sagezhong.oss-cn-shenzhen.aliyuncs.com/images/20191014163325.jpeg) | ![](https://sagezhong.oss-cn-shenzhen.aliyuncs.com/images/20191014163344.jpeg) |
+
+
+
+
+
+
