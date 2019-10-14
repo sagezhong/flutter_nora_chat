@@ -14,8 +14,6 @@ class SplashPage extends StatefulWidget {
 
 class _SplashPageState extends State<SplashPage> {
 
-  Timer timer;
-
   @override
   void initState() {
     super.initState();
@@ -27,7 +25,6 @@ class _SplashPageState extends State<SplashPage> {
     try {
       await SpUtil.getInstance();
       JMUserInfo userInfo = await jmessage.getMyInfo();
-      print('主题是什么${SpUtil.getString(ConstantsUtil.SYSTEM_THEME)}');
       if(SpUtil.getString(ConstantsUtil.SYSTEM_THEME) != null) {
         eventBus.fire(UpdateTheme(message: SpUtil.getString(ConstantsUtil.SYSTEM_THEME)));
       }

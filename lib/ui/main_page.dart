@@ -204,8 +204,6 @@ class _MainPageState extends State<MainPage>
         },
         unselectedItemColor: Theme.of(context).accentColor,
         fixedColor: Theme.of(context).accentColor,
-        // fixedColor: Theme.of(context).accentColor,
-        // selectedItemColor: Theme.of(context).accentColor,
         type: BottomNavigationBarType.shifting,
         items: [
           BottomNavigationBarItem(
