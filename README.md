@@ -24,6 +24,10 @@
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ![](https://sagezhong.oss-cn-shenzhen.aliyuncs.com/images/20191014163325.jpeg) | ![](https://sagezhong.oss-cn-shenzhen.aliyuncs.com/images/20191020144933.jpeg) |
 
+|                           添加好友                           |                           查看好友                           |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![](https://sagezhong.oss-cn-shenzhen.aliyuncs.com/images/20191020151859.png) | ![](https://sagezhong.oss-cn-shenzhen.aliyuncs.com/images/20191020151912.png) |
+
 
 
 
