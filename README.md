@@ -22,7 +22,7 @@
 
 |                           聊天页面                           |                            侧边栏                            |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![](https://sagezhong.oss-cn-shenzhen.aliyuncs.com/images/20191014163325.jpeg) | ![](https://sagezhong.oss-cn-shenzhen.aliyuncs.com/images/20191014163344.jpeg) |
+| ![](https://sagezhong.oss-cn-shenzhen.aliyuncs.com/images/20191014163325.jpeg) | ![](https://sagezhong.oss-cn-shenzhen.aliyuncs.com/images/20191020144933.jpeg) |
 
 
 
